@@ -32,7 +32,7 @@
     "@angular/router": "^11.0.0",
     "@types/node": "^12.6.5",
     "codelyzer": "^6.0.0",
-    "core-js": "^2.6.3",
+    "core-js": "^3.6.5",
     "is-number": "^7.0.0",
     "ng-packagr": "^11.0.0",
     "protractor": "~7.0.0",
